@@ -1,3 +1,11 @@
+# Northwood-mobile forked repo
+This library started failing after modifying some SDK versions. Overriding these values in the build.gradle was unsuccessul, so forking the parent repo and making the changes here was the best chance of success.  You are my only hope.
+
+- Jacob Nix
+- 09/23/19
+
+
+
 # react-native-android-open-settings
 
 Open android settings from your react native app
